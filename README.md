@@ -3,6 +3,7 @@
 Préparation du rapport mensuel des actions marketing d'une boutique en ligne.
 
 Analyses à inclure :
+
 1. Présentation des chiffres clés du mois : ventes, chiffre d’affaires, prix des produits, montant du panier, etc.
 
 ![p2_1](https://user-images.githubusercontent.com/87067133/217360252-ab2c2e15-95d3-415f-b4ad-e76af3c81b6c.png)
@@ -15,7 +16,10 @@ Analyses à inclure :
 
 2. Rapport des données spécifiques aux clients affiliés : montant d'achats en fonction du temps passé sur la boutique en ligne, évolution du C.A. au sein de chaque catégorie de produits, C.A. total pour chaque catégorie de produits
 
-[ophauz_analyse_ventes_ecommerce_2_clients_affilies.pdf](https://github.com/ophauz/analyse_ventes_ecommerce/files/10679205/ophauz_analyse_ventes_ecommerce_2_clients_affilies.pdf)
+![p2_7](https://user-images.githubusercontent.com/87067133/217360639-5f56abd8-62c5-402f-8f41-048fa1087fe9.png)
+![p2_8](https://user-images.githubusercontent.com/87067133/217360647-cbc7e16b-e082-449e-9218-e028315616d0.png)
+![p2_9](https://user-images.githubusercontent.com/87067133/217360654-bf80d734-ff27-4b39-a311-95c79ea97eb4.png)
+![p2_10](https://user-images.githubusercontent.com/87067133/217360662-43419a92-1405-4a71-b8f4-963b75969d1e.png)
 
 
 Environnement technique : Microsoft Excel et Power Query
