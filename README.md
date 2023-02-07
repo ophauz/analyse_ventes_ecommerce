@@ -1,6 +1,5 @@
-# analyse_ventes_ecommerce
-# Excel
-# Power Query
+## analyse_ventes_ecommerce
+### Excel et Power Query
 
 Préparation du rapport mensuel des actions marketing d'une boutique en ligne.
 
