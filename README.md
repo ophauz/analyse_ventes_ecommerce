@@ -1,4 +1,4 @@
-## Analyse des ventes d'un e-xcommerce avec Microsoft Excel
+## Analyse des ventes d'un e-commerce avec Microsoft Excel
 
 Préparation du rapport mensuel des actions marketing d'une boutique en ligne.
 
